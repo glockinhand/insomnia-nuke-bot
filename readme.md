@@ -19,7 +19,7 @@ It is designed to be a **fast and nuker** and demonstrate new ways of nuking ser
 
 ---
 
-## 🚀 Usage
+## 🚀 Usage 
 
 ```bash
 # Install dependencies
@@ -40,3 +40,4 @@ python nuke.py
 
 
 🔸 Always use responsibly in **controlled environments** such as penetration testing labs or awareness training.   
+
